@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     font-family: Arial, sans-serif;
+    color: #fff;
 }
 
 #picturesize {
@@ -41,6 +42,7 @@ footer {
 body{
     background-color: black;
 }
+
 
 .backgroundpicture {
     background-image: url(pictures/phonesbackground.jpg);
